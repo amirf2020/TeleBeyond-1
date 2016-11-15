@@ -276,19 +276,19 @@ function create_config( )
     "onservice",
     "id"
     },
-    sudo_users = {157059515},--ایدی خودتون رو اینجا بزارید
-    solid = {157059515},--ایدی خودتون رو اینجا بزارید
+    sudo_users = {193068389,283875167},--ایدی خودتون رو اینجا بزارید
+    solid = {193068389,283875167},--ایدی خودتون رو اینجا بزارید
     moderation = {data = 'data/moderation.json'},
     about_text = [[ Tele Beyond V2.5
 An Administrator The PowerFull Bot Based On TeleSeed Written In Lua
     
 Sudo Users :
-Developer&Founder : @SoLiD021
-Developer&Manager : @MrHalix
-Developer&Manager : @idivanmanheb
+Developer&Founder : @mr_global
+Developer&Manager : @rezablack07
+Developer&Manager : @weed_dog
 
 Team Channel :
-@BeyondTeam
+@weed_dog
      
 Special Thx To :
 Beyond Team
