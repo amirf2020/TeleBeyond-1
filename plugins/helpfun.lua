@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 if msg.to.type == 'channel' and is_momod(msg) then
-  return 'TeleBeyond Fun Commands List'..[[
+  return 'Telesky Fun Commands List'..[[
 ❤لیست دستورات💙:
 
 🔴!weather [شهر|کشور]
@@ -77,9 +77,9 @@ if msg.to.type == 'channel' and is_momod(msg) then
 Version 2.5 @TeleBeyond
 Team Channel : @BeyondTeam
 Sudo Users : 👤
-@SoLiD021
-@MrHalix
-@idivanmanheb ]]
+@mr_global
+@rezablack07
+@weed_dog ]]
 end
 end
 return {
